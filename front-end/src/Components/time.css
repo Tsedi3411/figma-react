@@ -1,0 +1,16 @@
+body{
+    overflow-x: hidden;
+}
+
+.time{
+    /* width: 1540px;
+    height: 900px;
+    top: 6566px;
+    gap: 0px;
+    opacity: 0px; */
+    
+    background-image: url('../assets/images/imone.png');
+    height: 900px; 
+    background-size: cover;
+    /* background-attachment: fixed; */
+}

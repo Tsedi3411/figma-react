@@ -1,0 +1,301 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.home-page {
+    background-color: black;
+    /* border: 66.37px solid; */
+
+    /* border-image-source: linear-gradient(101.15deg, #0082FF 20.23%, #0076BF 38.33%); */
+
+
+    /* background-image:linear-gradient(closest-side at 60% 50%, black, rgb(95, 63, 63), rgb(129, 75, 27),White, rgb(106, 106, 225), black); */
+    /* width: 1540px; */
+    height: 1088px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 44px;
+
+}
+
+.left-header a {
+    margin-left: 10px;
+    margin-top: 100px;
+    color: white;
+    text-decoration: none;
+    width: 200px;
+    height: 22px;
+    padding-top: 44px;
+    padding-left: 40px;
+    /* gap: 76px;
+    opacity: 0px; */
+
+}
+
+.right-header a {
+    width: 211px;
+    height: 22px;
+    gap: 76px;
+    padding-right: 22px;
+    color: white;
+    text-decoration: none;
+    gap: 76px;
+}
+
+.main img {
+    width: 840.64px;
+    height: 179.65px;
+    position: absolute;
+    top: 394px;
+    left: 350px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+.main p {
+    width: 668px;
+    height: 176px;
+    position: Absolute;
+    top: 403.15px;
+    left: 436px;
+    font-family: 'SF Pro Display';
+    font-weight: 400px;
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: -2%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main button {
+    width: 167px;
+    height: 52px;
+    color: hsla(0, 0%, 0%, 1);
+    background-color: hsla(0, 0%, 100%, 1);
+    font-family: 'SF Pro Display';
+    position: absolute;
+    top: 611.15px;
+    left: 686.5px;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 16px;
+    border-radius: 52px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+
+
+.scroll {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: hsla(0, 0%, 100%, 1);
+    position: absolute;
+    width: 89px;
+    height: 66px;
+    left: 725.5px;
+    top: 862px;
+    gap: 8px;
+}
+
+.scroll p {
+    color: white;
+    width: 89px;
+    height: 22px;
+    font-family: 'SF Pro Display';
+    font-weight: 500px;
+    font-size: 18px;
+    letter-spacing: -1px;
+    color: hsla(0, 0%, 100%, 1);
+
+}
+
+.scroll img {
+    width: 34px;
+    height: 36px;
+}
+
+.one img {
+    width: 214.46px;
+    height: 278px;
+    position: absolute;
+    top: 135px;
+    left: 235px;
+}
+
+.two {
+    width: 282.18px;
+    height: 93.54px;
+    position: absolute;
+    top: 157px;
+    left: 1020px;
+    border-radius: 24.94px;
+    border: 1px;
+    color: hsla(0, 0%, 15%, 0.3);
+    border-color: hsla(0, 0%, 100%, 0.1);
+}
+
+.two .first {
+    width: 100px;
+    height: 22px;
+    position: relative;
+    top: 18.71px;
+    left: 18.71px;
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'SF Pro Display';
+    font-weight: 400px;
+    font-size: 18.7px;
+    line-height: 22.45px;
+}
+
+.two .second {
+    width: 240px;
+    height: 30px;
+    position: relative;
+    top: 20.77px;
+    left: 18.71px;
+    font-family: 'SF Pro Display';
+    font-weight: 400px;
+    font-size: 24.94px;
+    line-height: 29.93px;
+    color: hsla(0, 0%, 100%, 1);
+}
+
+.three {
+    width: 282.18px;
+    height: 93.54px;
+    position: relative;
+    top: 354px;
+    left: -100px;
+    padding: 18.71px 42.47px 16.77px 18.71px;
+    gap: 0px;
+    border-radius: 24.94px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    color: hsla(0, 0%, 15%, 0.3);
+    border-color: hsla(0, 0%, 100%, 0.1);
+
+
+}
+
+.three p {
+    width: 221px;
+    height: 30px;
+    position: relative;
+    top: 46.77px;
+    left: 18.71px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: SF Pro Display;
+    font-size: 24.94px;
+    font-weight: 400;
+    line-height: 29.93px;
+    text-align: left;
+    color: hsla(0, 0%, 100%, 1);
+}
+
+.four {
+    width: 282.18px;
+    height: 183.96px;
+    position: absolute;
+    top: 287px;
+    left: 1201px;
+    gap: 0px;
+    border-radius: 24.94px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    color: hsla(0, 0%, 15%, 0.3);
+    border-color: hsla(0, 0%, 100%, 0.1);
+
+}
+
+.four .four-img {
+    width: 91.77px;
+    height: 41.82px;
+    position: relative;
+    top: 18.71px;
+    left: 171.49px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+/* .four .four-img .im1 {
+    width: 41.55px;
+    height: 41.82px;
+    position: relative;
+    top: 18.71px;
+    left: 171.49px;
+    gap: 0px;
+    opacity: 0px;
+
+} */
+
+/* .four .four-img .im2 {
+
+    width: 41.55px;
+    height: 41.82px;
+    position: relative;
+    top: 18.71px;
+    left: 196.6px;
+    gap: 0px;
+    opacity: 0px;
+
+} */
+
+/* .four .four-img .im3 {
+    width: 41.55px;
+    height: 41.82px;
+    position: relative;
+    top: 18.71px;
+    left: 221.71px;
+    gap: 0px;
+    opacity: 0px;
+} */
+
+
+
+
+/* left to do */
+
+/* .main-two {
+    width: 1540px;
+    height: 1477px;
+    top: 2203px;
+    gap: 0px;
+    opacity: 0px;
+    color: hsla(0, 0%, 0%, 1);
+
+} */
+
+/* .main-two p {
+    width: 484px;
+    height: 23px;
+    position: absolute;
+    top: 2403px;
+    left: 528px;
+    gap: 0px;
+    opacity: 0.5px;
+    font-family: SF Pro Display;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23.4px;
+    letter-spacing: -0.40799999237060547px;
+    text-align: center;
+    color: black;
+    background-color: black;
+
+} */
