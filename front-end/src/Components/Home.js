@@ -23,7 +23,7 @@ function Home() {
             </div>
             <div className='main'>
                <img src={image} alt='logo' />
-               <p>Unlock Seamless Efficiency</p>
+               {/* <p>Unlock Seamless Efficiency</p> */}
                <button>join Waitlist</button>
 
             </div>
@@ -31,28 +31,28 @@ function Home() {
                <img src={scroll} alt='scroll to bottom' />
                <p>Scroll Down</p>
             </div>
-            <div className='one'>
+            {/* <div className='one'>
                <img src={im} alt='card image' />
-            </div>
-            <div className='two'>
+            </div> */}
+            {/* <div className='two'>
                <p className='first'>Next-To-Do</p>
                <p className='second'>Renew Card insurance</p>
-            </div>
-            <div className='three'>
+            </div> */}
+            {/* <div className='three'>
                <p> Car Insurance</p>
-            </div>
+            </div> */}
             <div className='four'>
-               <div className='four-img'>
+               {/* <div className='four-img'>
                   <img className='im1' src={im1} alt='one' />
                   <img className='im2' src={im2} alt='two' />
                   <img className='im3' src={im3} alt='Three' />
-               </div>
-               <div className='four-p'>
+               </div> */}
+               {/* <div className='four-p'>
                   <p>Upcoming Events</p>
                   <p>Kite Beach</p>
                   <i></i>
                   <p>10:00-14:00</p>
-               </div>
+               </div> */}
 
                {/* left to doooo */}
 

@@ -12,8 +12,8 @@ import middle from '../assets/images/middle.png'
 
 import './main.css'
 
-const paragraph=[
-   ' What can curiosity, wonder, and awe do for you?',
+const paragraph = [
+    ' What can curiosity, wonder, and awe do for you?',
     'Does Fluid AI increase wellbeing and meaning in life?',
     'What can curiosity, wonder, and awe do for you?',
     'Does Fluid AI increase wellbeing and meaning in life?',
@@ -86,30 +86,29 @@ function Main() {
                         <p className='cu-pone'>What can curiosity, wonder, and awe do for you?</p>
                         <p className='cu-ptwo'>esearch shows that experiencing curiosity and awe can immensely benefit our mental, physical, and professional health. Here’s a brief overview of what curiosity and awe can do for you.</p>
                     </div>
-                          
+
                     <div className='cu-right'>
-                        {paragraph.map(para=>(
+                        {paragraph.map(para => (
                             <div className='right-cuo'>
-                               <p>{para}</p>
-                               <FontAwesomeIcon icon= {faPlus}/>
+                                <p>{para}</p>
+                                <FontAwesomeIcon icon={faPlus} />
                             </div>
-    
+
                         ))}
-                       
+
                     </div>
                 </div>
                 <div className='middle'>
-                    <div className='para'>
-                        <p>Join The fluid AI</p>
-
+                    
                         <div className='inside'>
-                            <input type='text' placeholder='name' />
-                            <input type='email' placeholder='name' />
+                        <p>Join The fluid AI</p>
+                            <input type='text' placeholder='Name' />
+                            <input type='email' placeholder='Email' />
                         </div>
                         <div className='middle-image'>
                             <img src={middle} alt='after' />
                         </div>
-                    </div>
+                   
 
                 </div>
 
