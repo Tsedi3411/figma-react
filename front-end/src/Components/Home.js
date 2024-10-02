@@ -17,7 +17,7 @@ function Home() {
                   <a href=''>Our Feature</a>
                </div>
                <div className='right-header'>
-                  <a href=''>Our Story</a>
+                  <a href=''>FAQs</a>
                   <a href=''>The Waitlist</a>
                </div>
             </div>

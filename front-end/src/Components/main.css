@@ -52,12 +52,9 @@
     display: flex;
     flex-direction: row;
     gap: 20px;
-    /* justify-content: center;
-    align-items: center; 
-    gap: 0px;
-    /* padding-top: 40px; */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 40px;
 }
 
 .mmmm {
@@ -70,21 +67,12 @@
     flex-direction: column;
     justify-content: center;
     gap: 10px;
-    /* padding-bottom: 50%;
-    padding-left: 80px; */
-
-    /* align-items: center; */
-
 }
 
 
 .mm-one .mzero {
     width: 357.34px;
     height: 64px;
-    /* top: 3052px;
-    left: 80px;
-    gap: 0px;
-    opacity: 0px; */
     font-family: SF Pro Display;
     font-size: 32px;
     font-weight: 400;
@@ -246,22 +234,13 @@
 .m-four {
     display: flex;
     flex-direction: row;
-    /* justify-content: center;
-    align-items: center; */
-    /* padding-left: 400px; */
+
 }
 
 .m-four .imgo-four {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* padding-right: 100px; */
-    /* height: 783px;
-    position: absolute;
-    top: 5399px;
-    left: 577px;
-    gap: 0px;
-    opacity: 0px; */
     box-shadow: 0px 28.45px 62.94px 0px rgba(0, 0, 0, 0.1);
 
     box-shadow: 0px 114.68px 114.68px 0px rgba(0, 0, 0, 0.09);
@@ -288,15 +267,6 @@
 .mm-four .ttzerooo {
     display: flex;
     width: 380px;
-    /* align-items: center; */
-    /* justify-content: end; */
-    /* padding-left: 100px; */
-    /* height: 64px;
-    position: absolute;
-    top: 5641px;
-    left: 1080px;
-    gap: 0px;
-    opacity: 0px; */
     font-family: 'SF Pro Display';
     font-size: 32px;
     font-weight: 400;
